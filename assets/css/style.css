@@ -1,0 +1,25 @@
+.form-group {
+	padding: 10px; 
+	margin-bottom: -10px;
+}
+
+#btn-add {
+	margin-left: 10px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+.jumbotron {
+	background-image: url(../images/header2.jpg);
+	background-attachment: scroll;
+    background-position: center bottom;
+    background-size: 100%;
+	text-align: center;
+	font-size: 30px;
+	font-family: 'cooperplate' !important;
+	color: white;
+	text-shadow: 2px 2px black;
+	-webkit-filter: drop-shadow(5px 5px 5px #222);
+  	filter: drop-shadow(5px 5px 5px #222);
+  	background-color: rgba(64, 64, 64, 0.5) !important;
+}
